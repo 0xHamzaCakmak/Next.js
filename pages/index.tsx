@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}. test ipad push1
+          Get started by editing{' '}. test ipad push2
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
